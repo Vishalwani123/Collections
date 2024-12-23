@@ -1,0 +1,7 @@
+C:\Users\Vishal\source\repos\Collections\Generic2\Generic2\obj\Debug\Generic2.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\Collections\Generic2\Generic2\obj\Debug\Generic2.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\Collections\Generic2\Generic2\bin\Debug\Generic2.exe.config
+C:\Users\Vishal\source\repos\Collections\Generic2\Generic2\bin\Debug\Generic2.exe
+C:\Users\Vishal\source\repos\Collections\Generic2\Generic2\bin\Debug\Generic2.pdb
+C:\Users\Vishal\source\repos\Collections\Generic2\Generic2\obj\Debug\Generic2.exe
+C:\Users\Vishal\source\repos\Collections\Generic2\Generic2\obj\Debug\Generic2.pdb

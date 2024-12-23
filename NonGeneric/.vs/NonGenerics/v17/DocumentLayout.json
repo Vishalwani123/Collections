@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Vishal\\source\\repos\\NonGenerics\\",
+  "WorkspaceRootPath": "C:\\Users\\Vishal\\source\\repos\\Collections\\NonGeneric\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA5BB7D4-2B79-445B-8100-EB91DBA10977}|NonGenerics\\NonGenerics.csproj|c:\\users\\vishal\\source\\repos\\nongenerics\\nongenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA5BB7D4-2B79-445B-8100-EB91DBA10977}|NonGenerics\\NonGenerics.csproj|C:\\Users\\Vishal\\source\\repos\\Collections\\NonGeneric\\nongenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA5BB7D4-2B79-445B-8100-EB91DBA10977}|NonGenerics\\NonGenerics.csproj|solutionrelative:nongenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5BB7D4-2B79-445B-8100-EB91DBA10977}|NonGenerics\\NonGenerics.csproj|c:\\users\\vishal\\source\\repos\\collections\\nongeneric\\nongenerics\\queue1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5BB7D4-2B79-445B-8100-EB91DBA10977}|NonGenerics\\NonGenerics.csproj|solutionrelative:nongenerics\\queue1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5BB7D4-2B79-445B-8100-EB91DBA10977}|NonGenerics\\NonGenerics.csproj|c:\\users\\vishal\\source\\repos\\collections\\nongeneric\\nongenerics\\stack1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5BB7D4-2B79-445B-8100-EB91DBA10977}|NonGenerics\\NonGenerics.csproj|solutionrelative:nongenerics\\stack1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5BB7D4-2B79-445B-8100-EB91DBA10977}|NonGenerics\\NonGenerics.csproj|c:\\users\\vishal\\source\\repos\\collections\\nongeneric\\nongenerics\\sortedlist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5BB7D4-2B79-445B-8100-EB91DBA10977}|NonGenerics\\NonGenerics.csproj|solutionrelative:nongenerics\\sortedlist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5BB7D4-2B79-445B-8100-EB91DBA10977}|NonGenerics\\NonGenerics.csproj|c:\\users\\vishal\\source\\repos\\collections\\nongeneric\\nongenerics\\hashtable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5BB7D4-2B79-445B-8100-EB91DBA10977}|NonGenerics\\NonGenerics.csproj|solutionrelative:nongenerics\\hashtable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5BB7D4-2B79-445B-8100-EB91DBA10977}|NonGenerics\\NonGenerics.csproj|c:\\users\\vishal\\source\\repos\\collections\\nongeneric\\nongenerics\\arraylist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5BB7D4-2B79-445B-8100-EB91DBA10977}|NonGenerics\\NonGenerics.csproj|solutionrelative:nongenerics\\arraylist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Queue1.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Collections\\NonGeneric\\NonGenerics\\Queue1.cs",
+              "RelativeDocumentMoniker": "NonGenerics\\Queue1.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Collections\\NonGeneric\\NonGenerics\\Queue1.cs",
+              "RelativeToolTip": "NonGenerics\\Queue1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:10:41.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stack1.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Collections\\NonGeneric\\NonGenerics\\Stack1.cs",
+              "RelativeDocumentMoniker": "NonGenerics\\Stack1.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Collections\\NonGeneric\\NonGenerics\\Stack1.cs",
+              "RelativeToolTip": "NonGenerics\\Stack1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:56:48.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SortedList1.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Collections\\NonGeneric\\NonGenerics\\SortedList1.cs",
+              "RelativeDocumentMoniker": "NonGenerics\\SortedList1.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Collections\\NonGeneric\\NonGenerics\\SortedList1.cs",
+              "RelativeToolTip": "NonGenerics\\SortedList1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:52:17.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HashTable1.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Collections\\NonGeneric\\NonGenerics\\HashTable1.cs",
+              "RelativeDocumentMoniker": "NonGenerics\\HashTable1.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Collections\\NonGeneric\\NonGenerics\\HashTable1.cs",
+              "RelativeToolTip": "NonGenerics\\HashTable1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:29:39.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArrayList1.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Collections\\NonGeneric\\NonGenerics\\ArrayList1.cs",
+              "RelativeDocumentMoniker": "NonGenerics\\ArrayList1.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Collections\\NonGeneric\\NonGenerics\\ArrayList1.cs",
+              "RelativeToolTip": "NonGenerics\\ArrayList1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:39:54.433Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\NonGenerics\\NonGenerics\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Collections\\NonGeneric\\NonGenerics\\Program.cs",
               "RelativeDocumentMoniker": "NonGenerics\\Program.cs",
-              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\NonGenerics\\NonGenerics\\Program.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Collections\\NonGeneric\\NonGenerics\\Program.cs",
               "RelativeToolTip": "NonGenerics\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T10:42:24.681Z",
               "EditorCaption": ""

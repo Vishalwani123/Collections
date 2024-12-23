@@ -1,10 +1,39 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Vishal\\source\\repos\\Generic2\\",
+  "WorkspaceRootPath": "C:\\Users\\Vishal\\source\\repos\\Collections\\Generic2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C94EDFD-5637-4245-9159-C2EBFFBA76BA}|Generic2\\Generic2.csproj|c:\\users\\vishal\\source\\repos\\generic2\\generic2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C94EDFD-5637-4245-9159-C2EBFFBA76BA}|Generic2\\Generic2.csproj|C:\\Users\\Vishal\\source\\repos\\Collections\\Generic2\\generic2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C94EDFD-5637-4245-9159-C2EBFFBA76BA}|Generic2\\Generic2.csproj|solutionrelative:generic2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C94EDFD-5637-4245-9159-C2EBFFBA76BA}|Generic2\\Generic2.csproj|c:\\users\\vishal\\source\\repos\\collections\\generic2\\generic2\\queue1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C94EDFD-5637-4245-9159-C2EBFFBA76BA}|Generic2\\Generic2.csproj|solutionrelative:generic2\\queue1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C94EDFD-5637-4245-9159-C2EBFFBA76BA}|Generic2\\Generic2.csproj|c:\\users\\vishal\\source\\repos\\collections\\generic2\\generic2\\stack1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C94EDFD-5637-4245-9159-C2EBFFBA76BA}|Generic2\\Generic2.csproj|solutionrelative:generic2\\stack1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C94EDFD-5637-4245-9159-C2EBFFBA76BA}|Generic2\\Generic2.csproj|C:\\Users\\Vishal\\source\\repos\\Collections\\Generic2\\generic2\\list1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C94EDFD-5637-4245-9159-C2EBFFBA76BA}|Generic2\\Generic2.csproj|solutionrelative:generic2\\list1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C94EDFD-5637-4245-9159-C2EBFFBA76BA}|Generic2\\Generic2.csproj|c:\\users\\vishal\\source\\repos\\collections\\generic2\\generic2\\sortedlist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C94EDFD-5637-4245-9159-C2EBFFBA76BA}|Generic2\\Generic2.csproj|solutionrelative:generic2\\sortedlist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C94EDFD-5637-4245-9159-C2EBFFBA76BA}|Generic2\\Generic2.csproj|c:\\users\\vishal\\source\\repos\\collections\\generic2\\generic2\\dictionary1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C94EDFD-5637-4245-9159-C2EBFFBA76BA}|Generic2\\Generic2.csproj|solutionrelative:generic2\\dictionary1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vishal\\source\\repos\\Generic1\\Generics\\Generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vishal\\source\\repos\\Generic1\\Generics\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vishal\\source\\repos\\Collections\\NonGeneric\\NonGenerics\\Queue1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +43,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Queue1.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Collections\\Generic2\\Generic2\\Queue1.cs",
+              "RelativeDocumentMoniker": "Generic2\\Queue1.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Collections\\Generic2\\Generic2\\Queue1.cs",
+              "RelativeToolTip": "Generic2\\Queue1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:26:18.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stack1.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Collections\\Generic2\\Generic2\\Stack1.cs",
+              "RelativeDocumentMoniker": "Generic2\\Stack1.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Collections\\Generic2\\Generic2\\Stack1.cs",
+              "RelativeToolTip": "Generic2\\Stack1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:23:05.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortedList1.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Collections\\Generic2\\Generic2\\SortedList1.cs",
+              "RelativeDocumentMoniker": "Generic2\\SortedList1.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Collections\\Generic2\\Generic2\\SortedList1.cs",
+              "RelativeToolTip": "Generic2\\SortedList1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:19:55.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dictionary1.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Collections\\Generic2\\Generic2\\Dictionary1.cs",
+              "RelativeDocumentMoniker": "Generic2\\Dictionary1.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Collections\\Generic2\\Generic2\\Dictionary1.cs",
+              "RelativeToolTip": "Generic2\\Dictionary1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:35:33.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Generic1\\Generics\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Generic1\\Generics\\Program.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Generic1\\Generics\\Program.cs",
+              "RelativeToolTip": "..\\..\\Generic1\\Generics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:10:39.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Generics.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Generic1\\Generics\\Generics.cs",
+              "RelativeDocumentMoniker": "..\\..\\Generic1\\Generics\\Generics.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Generic1\\Generics\\Generics.cs",
+              "RelativeToolTip": "..\\..\\Generic1\\Generics\\Generics.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:40:47.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Queue1.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Collections\\NonGeneric\\NonGenerics\\Queue1.cs",
+              "RelativeDocumentMoniker": "..\\NonGeneric\\NonGenerics\\Queue1.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Collections\\NonGeneric\\NonGenerics\\Queue1.cs",
+              "RelativeToolTip": "..\\NonGeneric\\NonGenerics\\Queue1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:30:40.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List1.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Collections\\Generic2\\Generic2\\List1.cs",
+              "RelativeDocumentMoniker": "Generic2\\List1.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Collections\\Generic2\\Generic2\\List1.cs",
+              "RelativeToolTip": "Generic2\\List1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:15:19.646Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Generic2\\Generic2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Collections\\Generic2\\Generic2\\Program.cs",
               "RelativeDocumentMoniker": "Generic2\\Program.cs",
-              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Generic2\\Generic2\\Program.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Collections\\Generic2\\Generic2\\Program.cs",
               "RelativeToolTip": "Generic2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T11:14:22.367Z",
               "EditorCaption": ""

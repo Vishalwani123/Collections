@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Generic2",
-    "\\Generic2\\Generic"
+    "\\NonGeneric",
+    "\\NonGeneric\\NonGenerics"
   ],
-  "SelectedNode": "\\Generic2\\Generic\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
